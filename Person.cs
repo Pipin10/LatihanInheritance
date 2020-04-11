@@ -15,7 +15,7 @@ namespace LatihanInheritance
             Name = name;
             Age = age;
         }
-
+ 
         public void GetNameAndAge()
         {
             Console.WriteLine("The person has name: {0} and age: {1}", Name, Age);
